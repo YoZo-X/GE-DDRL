@@ -15,7 +15,7 @@ The source code for "GE-DDRL: Graph Embedding and DeepDistributional Reinforceme
 ![image](https://github.com/YoZo-X/GE-DDRL/blob/master/img_files/figure1.png)
 
 ### 2. How to use
-  **step 1**: Create a simulative environment(ENV), you must choose one transaction data or make a data by yourself. For some transaction data without the sigma of link travel time, you can generate them through the funtions in func.py, you can find the method you want in func.py or you can make your own method to generate sigma of link travel time;
+  **step 1**: Create a simulative environment(ENV), you must choose one transaction data or make a data by yourself, and specify one RSP objective. For some transaction data without the sigma of link travel time, you can generate them through the funtions in func_new.py, you can find the method you want in func_new.py or you can make your own method to generate sigma of link travel time;
 
   **step 2**: Create a graph embedding module(GE) base on the environment that is created on **step 1**, some parameters are required to set;
 
