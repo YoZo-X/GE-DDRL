@@ -4,6 +4,7 @@ The source code for "GE-DDRL: Graph Embedding and DeepDistributional Reinforceme
 ## Table of Contents
 - [GE-DDRL-Router](#ge-ddrl-router)
   - [Requirements](#requirements)
+  - [Framework of GE-DDRL-Router](#framework_of_GE-DDRL-Router)
   - [How to use](#how_to_use)
   - [Template](#template)
 
