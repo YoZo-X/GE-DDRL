@@ -23,7 +23,7 @@ The source code for "GE-DDRL: Graph Embedding and DeepDistributional Reinforceme
 
   **step 4**: Configure the parameter of the Agent that is created on **step 3**;
   
-  **step 5**: (Optional)using dijkstra to pretrain the Agent(Imitation Learning), which is a warm start for DRL-Router.
+  **(Optional) step 5**: Using dijkstra to pretrain the Agent(Imitation Learning), which is a warm start for DRL-Router.
 
    **step 6**: Start the training of the Agent, we need to set the training parameters num_iterations, When the training is finished, we got a Policy. The more training times, the better performance of results will be.
 
